@@ -1,7 +1,7 @@
 ### Olá! Me chamo Anakin Flores
 - 🔭 Estudando programação front-end
 - 🌱 16y
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 <div>
   <a href="https://github.com/EuKyno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuKyno&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>

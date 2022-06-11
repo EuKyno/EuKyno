@@ -21,4 +21,8 @@
     <a href="https://www.linkedin.com/in/anakin-flores-229011240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     ![Snake animation](https://github.com/EuKyno/EuKyno/blob/output/github-contribution-grid-snake.svg)
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 86d3d9111b3ae8558e7bc8824535a8f0029c03c2
